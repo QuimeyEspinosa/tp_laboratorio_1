@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1587222721 source:c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\trabajos prácticos\tp1_codeblocks_\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menuCalculadora.h"
+	"operacionesCalculadora.h"
+
+1587222316 c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\trabajos prácticos\tp1_codeblocks_\menucalculadora.h
+
+1587223501 source:c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\trabajos prácticos\tp1_codeblocks_\menucalculadora.c
+	<stdio.h>
+	<stdlib.h>
+	"menuCalculadora.h"
+	"operacionesCalculadora.h"
+
+1587222935 source:c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\trabajos prácticos\tp1_codeblocks_\operacionescalculadora.c
+	<stdio.h>
+	<stdlib.h>
+	"menuCalculadora.h"
+	"operacionesCalculadora.h"
+
+1587222935 c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\trabajos prácticos\tp1_codeblocks_\operacionescalculadora.h
+
