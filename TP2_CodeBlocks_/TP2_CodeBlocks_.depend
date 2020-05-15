@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1589574866 source:c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\trabajos prácticos\tp2_codeblocks_\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"DataWarehouseEmployee.h"
+
+1589574854 c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\trabajos prácticos\tp2_codeblocks_\datawarehouseemployee.h
+
+1589574226 c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\trabajos prácticos\tp2_codeblocks_\arrayemployees.h
+
+1589575020 source:c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\trabajos prácticos\tp2_codeblocks_\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Validations.h"
+	"ArrayEmployees.h"
+
+1589562079 source:c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\trabajos prácticos\tp2_codeblocks_\validations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589562146 c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\trabajos prácticos\tp2_codeblocks_\validations.h
+
