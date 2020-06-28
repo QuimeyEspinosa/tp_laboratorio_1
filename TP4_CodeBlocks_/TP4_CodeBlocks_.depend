@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1593297039 source:c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\trabajos prácticos\tp4_codeblocks_\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593143247 c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\trabajos prácticos\tp4_codeblocks_\linkedlist.h
+
+1593186938 source:c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\trabajos prácticos\tp4_codeblocks_\validations.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validations.h"
+
+1593181924 c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\trabajos prácticos\tp4_codeblocks_\validations.h
+
+1593304431 source:c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\trabajos prácticos\tp4_codeblocks_\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"parser.h"
+	"instrument.h"
+	"validations.h"
+	"menu.h"
+
+1593304470 c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\trabajos prácticos\tp4_codeblocks_\instrument.h
+
+1593294295 source:c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\trabajos prácticos\tp4_codeblocks_\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"instrument.h"
+	"parser.h"
+
+1593294208 c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\trabajos prácticos\tp4_codeblocks_\parser.h
+
+1593303547 c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\trabajos prácticos\tp4_codeblocks_\controller.h
+
+1593304640 source:c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\trabajos prácticos\tp4_codeblocks_\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"menu.h"
+
+1593304280 source:c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\trabajos prácticos\tp4_codeblocks_\instrument.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"instrument.h"
+	"validations.h"
+	"menu.h"
+	"controller.h"
+
+1593304364 source:c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\trabajos prácticos\tp4_codeblocks_\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"validations.h"
+
+1593301401 c:\users\quimey\desktop\utn\primer cuatrimestre\programacion-lab i\trabajos prácticos\tp4_codeblocks_\menu.h
+
