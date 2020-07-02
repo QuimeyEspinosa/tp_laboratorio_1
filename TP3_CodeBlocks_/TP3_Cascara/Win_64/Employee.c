@@ -170,6 +170,7 @@ int employee_searchForId(LinkedList* pArrayListEmployee, int id)
                 idAux == id)
         {
             retorno = index;//devuelvo la posicion del empleado
+            break;
         }
     }
     return retorno;
